@@ -12,6 +12,7 @@
 		3F7F3E932B87127B00E55B2D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F7F3E912B87127B00E55B2D /* Main.storyboard */; };
 		3F7F3E952B87127C00E55B2D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F7F3E942B87127C00E55B2D /* Assets.xcassets */; };
 		3F7F3E982B87127C00E55B2D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F7F3E962B87127C00E55B2D /* LaunchScreen.storyboard */; };
+		3FBF93462B8DA55900B04734 /* .gitifnore in Resources */ = {isa = PBXBuildFile; fileRef = 3FBF93452B8DA55900B04734 /* .gitifnore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3F7F3E942B87127C00E55B2D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F7F3E972B87127C00E55B2D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F7F3E992B87127C00E55B2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FBF93452B8DA55900B04734 /* .gitifnore */ = {isa = PBXFileReference; lastKnownFileType = text; name = .gitifnore; path = AppleClock/.gitifnore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		3F7F3E7F2B87127B00E55B2D = {
 			isa = PBXGroup;
 			children = (
+				3FBF93452B8DA55900B04734 /* .gitifnore */,
 				3F7F3E8A2B87127B00E55B2D /* AppleClock */,
 				3F7F3E892B87127B00E55B2D /* Products */,
 			);
@@ -125,6 +128,7 @@
 				3F7F3E982B87127C00E55B2D /* LaunchScreen.storyboard in Resources */,
 				3F7F3E952B87127C00E55B2D /* Assets.xcassets in Resources */,
 				3F7F3E932B87127B00E55B2D /* Main.storyboard in Resources */,
+				3FBF93462B8DA55900B04734 /* .gitifnore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
